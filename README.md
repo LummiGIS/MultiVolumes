@@ -28,4 +28,4 @@ Input Parameters
 These tools has been tested on ArcGIS 10.1  - 10.8 and ArcGIS Pro v2.9.  These tools requires the 3-D Analyst extension.
 
 NOTE:  The ArcGIS 10 version is better since it writes the graduation values, and the 2D areas, 3D areas, and volumes in a nicely formatted comma delimited txt file.
-This comma delimited text file can be opened in LibreOffice Calc (or Excel if you are a sad victim of corporate hegemony) and the values manipulated to get the volumes at that graduation range only.  ArcGIS Pro outputs a heap of extra garbage text and I have not gotten around to parcing those data yet.  Sorry for that - stand by for an updated version.  Thanks again for finding new ways to ruin your software ESRI.  ArcGIS Pro sucks.
+This comma delimited text file can be opened in LibreOffice Calc (or Excel if you are a sad victim of corporate hegemony) and the values manipulated to get the volumes at that graduation range only.  ArcGIS Pro outputs a heap of extra garbage text and I have not gotten around to parcing those data yet.  Sorry for that - stand by for an updated version.  Thanks again ESRI for finding more ways to make your flagship software suck.
