@@ -15,11 +15,11 @@ Tested on Windows 10.
 
 2. Change Input Parameters
 
-  a. A surface model. (raster)
+    a. A surface model. (raster)
   
-  b. An output CSV file path.
+    b. An output CSV file path.
   
-  c. Graduation value.
+    c. Graduation value.
   
 3. Copy and paste to the Python window in QGIS or ArcGIS Pro.  Alternatively run in the IDE if the IDE is using the interpretor from Pro.
 
