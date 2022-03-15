@@ -1,6 +1,8 @@
 # MultiVolumes
 See MultiVolume10 for an ArcGIS 10x Toolbox tool (3d Analyst Required).
-See Multivolumes for an ArcGIS Pro Toolbox tool (3d Analyst Required)
+
+See Multivolumes for an ArcGIS Pro Toolbox tool (3d Analyst Required).
+
 See MultiVolumesFOSS4G for a platform independent script (license level independent if copied to a Python window in QGIS or ArcGIS Pro).
 
 Tested on Windows 10.
@@ -8,15 +10,22 @@ Tested on Windows 10.
 
 
 -MultiVolumesFOSS4G will output a single CSV with volumes and areas begining at the lowest elevation and for every graduation to the highest pixel in the surface model.  For any graduation the values are inclusive and include the volumes at that elevation and above.
+
 1. Open the FOSS4G version in a text editor or a Python IDE.
+
 2. Change Input Parameters
+
   a. A surface model. (raster)
+  
   b. An output CSV file path.
+  
   c. Graduation value.
+  
 3. Copy and paste to the Python window in QGIS or ArcGIS Pro.  Alternatively run in the IDE if the IDE is using the interpretor from Pro.
 
 
 For MultiVolumes10 and Multivolumes 
+
 These tools will loop the surface volume tool in ArcToolbox (3D Analyst-Functional Surface-Surface Volumes) 
 for a user-defined range of values and graduations.
 These tools has been tested on ArcGIS 10.1  - 10.8 and ArcGIS Pro v2.9.  
