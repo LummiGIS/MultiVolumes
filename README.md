@@ -5,11 +5,8 @@
 
 3. See MultiVolumesFOSS4G for a platform independent script (license level independent if copied to a Python window in QGIS or ArcGIS Pro).
 
-a. Tested on Windows 10. There are two files in this directory, one for creating the volumes at increasing graduations for a hill or mound and one             for creating volumes at decreasing graduations for pits or bathymetry.  For these tools the areas and volumes at graduation x include the values           of pixels with a value of x.
+FOSS4G tools were tested on Windows 10. There are two files in this directory, one for creating the volume tables at increasing graduations for a hill or mound and one for creating volumes tables at decreasing graduations for pits or bathymetry.  For these tools the areas and volumes at graduation x include the values of pixels with a value of x.
 
-
-
--MultiVolumesFOSS4G will output a single CSV with volumes and areas begining at the lowest elevation and for every graduation to the highest pixel in the surface model.  For any graduation the values are inclusive and include the volumes at that elevation and above.
 
 1. Open the FOSS4G version in a text editor or a Python IDE.
 
@@ -21,7 +18,7 @@ a. Tested on Windows 10. There are two files in this directory, one for creating
   
     c. Graduation value.
   
-3. Copy and paste to the Python window in QGIS or ArcGIS Pro.  Alternatively run in the IDE if the IDE is using the interpretor from Pro.
+3. Copy and paste to the Python window in QGIS or ArcGIS Pro.  Alternatively run in the IDE if the IDE is using the interpretor from Pro or a python installation with GDAL and .
 
 
 For MultiVolumes10 and Multivolumes 
