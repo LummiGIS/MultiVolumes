@@ -5,7 +5,7 @@ See Multivolumes for an ArcGIS Pro Toolbox tool (3d Analyst Required).
 
 See MultiVolumesFOSS4G for a platform independent script (license level independent if copied to a Python window in QGIS or ArcGIS Pro).
 
-Tested on Windows 10.
+Tested on Windows 10. This version will (curently) only sum the volume of a hill and not the volume of a lake.  Stand-by for more.
 
 
 
