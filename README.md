@@ -18,7 +18,7 @@ FOSS4G tools were tested on Windows 10. There are two files in this directory, o
   
     c. Graduation value.
   
-3. Copy and paste to the Python window in QGIS or ArcGIS Pro.  Alternatively run in the IDE if the IDE is using the interpretor from Pro or a python installation with GDAL and .
+3. Copy and paste to the Python window in QGIS or ArcGIS Pro.  Alternatively run in an IDE if the IDE is using the interpretor from Pro, QGIS or a python installation with the GDAL and numpy libraries installed.
 
 
 For MultiVolumes10 and Multivolumes 
