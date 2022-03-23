@@ -5,7 +5,7 @@ See Multivolumes for an ArcGIS Pro Toolbox tool (3d Analyst Required).
 
 See MultiVolumesFOSS4G for a platform independent script (license level independent if copied to a Python window in QGIS or ArcGIS Pro).
 
-Tested on Windows 10. This version will (curently) only sum the volume of a hill and not the volume of a lake.  Stand-by for more.
+    Tested on Windows 10. There are two files in this directory, one for creating the volumes at increasing graduations for a hill or mound and one for         creating volumes at decreasing graduations for pits or bathymetry.  For these tools the areas and volumes at graduation x include the values of pixels     with a value of x.
 
 
 
