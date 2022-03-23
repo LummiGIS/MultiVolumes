@@ -1,11 +1,11 @@
 # MultiVolumes
-See MultiVolume10 for an ArcGIS 10x Toolbox tool (3d Analyst Required).
+1. See MultiVolume10 for an ArcGIS 10x Toolbox tool (3d Analyst Required).
 
-See Multivolumes for an ArcGIS Pro Toolbox tool (3d Analyst Required).
+2. See Multivolumes for an ArcGIS Pro Toolbox tool (3d Analyst Required).
 
-See MultiVolumesFOSS4G for a platform independent script (license level independent if copied to a Python window in QGIS or ArcGIS Pro).
+3. See MultiVolumesFOSS4G for a platform independent script (license level independent if copied to a Python window in QGIS or ArcGIS Pro).
 
-    Tested on Windows 10. There are two files in this directory, one for creating the volumes at increasing graduations for a hill or mound and one for         creating volumes at decreasing graduations for pits or bathymetry.  For these tools the areas and volumes at graduation x include the values of pixels     with a value of x.
+Tested on Windows 10. There are two files in this directory, one for creating the volumes at increasing graduations for a hill or mound and one for         creating volumes at decreasing graduations for pits or bathymetry.  For these tools the areas and volumes at graduation x include the values of pixels     with a value of x.
 
 
 
