@@ -31,7 +31,9 @@ The resulting comma delimited text file can be opened in LibreOffice Calc (or Ex
 NOTE:  The ArcGIS 10 version is better since it writes the graduation values, and the 2D areas, 3D areas, and volumes in a nicely formatted comma delimited txt file.  Note:  The FOSS4G tools are better since they do not skip or drop pixels and generate a complete table for all volumes.
 
 ### For MultiVolumesFOS4G
+
 Use MultivolumesFOSS4GHillVolume.py for volumes of piles.
+
 Use MultivolumesFOSS4GLakeVolume.py for volumes of voids or lakes. (coming soon!)
 
 Both tools will out put a CSV file.  
