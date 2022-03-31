@@ -30,3 +30,15 @@ The resulting comma delimited text file can be opened in LibreOffice Calc (or Ex
 
 NOTE:  The ArcGIS 10 version is better since it writes the graduation values, and the 2D areas, 3D areas, and volumes in a nicely formatted comma delimited txt file.  Note:  The FOSS4G tools are better since they do not skip or drop pixels and generate a complete table for all volumes.
 
+### For MultiVolumesFOS4G
+Use MultivolumesFOSS4GHillVolume.py for volumes of piles.
+Use MultivolumesFOSS4GLakeVolume.py for volumes of voids or lakes. (coming soon!)
+
+Both tools will out put a CSV file.  
+
+For piles the CSV file will contain a record for the lowest values in the pile raster and a record for every graduation higher than the mininum.   Each row will have the area and volume total above that graduation (inclusive).
+
+For lakes the CSV file of the highest value of the input raster and the volumes below each graduation (inclusive).
+
+Change the user defined values in the scripts.  Both ArcGIS Pro and QGIS 3.22 LTS include GDAL and numpy so the script can be placed in the Python window in either application.  The script can also be run via an IDE if the interpeter includes GDAL and numpy.
+
