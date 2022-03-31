@@ -3,24 +3,6 @@
 
 2. See Multivolumes for an ArcGIS Pro Toolbox tool (3d Analyst Required).
 
-3. See MultiVolumesFOSS4G for a platform independent script (license level independent if copied to a Python window in QGIS or ArcGIS Pro).
-
-FOSS4G tools were tested on Windows 10. There are two files in this directory, one for creating the volume tables at increasing graduations for a hill or mound and one for creating volumes tables at decreasing graduations for pits or bathymetry.  For these tools the areas and volumes at graduation x include the values of pixels with a value of x.
-
-
-1. Open the FOSS4G version in a text editor or a Python IDE.
-
-2. Change Input Parameters
-
-    a. A surface model. (raster)
-  
-    b. An output CSV file path.
-  
-    c. Graduation value.
-  
-3. Copy and paste to the Python window in QGIS or ArcGIS Pro.  Alternatively run in an IDE if the IDE is using the interpretor from Pro, QGIS or a python installation with the GDAL and numpy libraries installed.
-
-
 For MultiVolumes10 and Multivolumes 
 
 These tools will loop the surface volume tool in ArcToolbox (3D Analyst-Functional Surface-Surface Volumes) 
