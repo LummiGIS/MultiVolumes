@@ -1,11 +1,11 @@
 # MultiVolumes
-##1. See MultiVolume10 for an ArcGIS 10x Toolbox tool (3d Analyst Required).
+## 1. See MultiVolume10 for an ArcGIS 10x Toolbox tool (3d Analyst Required).
 
-##2. See Multivolumes for an ArcGIS Pro Toolbox tool (3d Analyst Required).
+## 2. See Multivolumes for an ArcGIS Pro Toolbox tool (3d Analyst Required).
 
-##3. See the MultiVolumesFOSS4G for generating volume and fill tables using opensource tools. 
+## 3. See the MultiVolumesFOSS4G for generating volume and fill tables using opensource tools. 
 
-###For MultiVolumes10 and Multivolumes 
+### For MultiVolumes10 and Multivolumes 
 
 These tools will loop the surface volume tool in ArcToolbox (3D Analyst-Functional Surface-Surface Volumes) 
 for a user-defined range of values and graduations.
